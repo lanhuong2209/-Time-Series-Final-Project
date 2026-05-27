@@ -7,6 +7,18 @@ Analyzes and forecasts monthly Office Supplies sales from a US Superstore datase
 
 ## 📁 Project Structure
 
+```text
+├── data/
+│   └── raw/
+│       └── Dataset- Superstore (2014-2017).csv
+├── outputs/
+│   └── processed/            ← Tự tạo khi chạy (pkl files)
+├── 01_data_clean.ipynb       ← Load, clean, export data
+├── 02_eda.ipynb              ← Exploratory data analysis
+├── 03_stationarity.ipynb     ← Stationarity tests & transformations
+├── 04_modeling.ipynb         ← ARIMA & SARIMAX modeling
+└── 05_evaluation_forecast.ipynb  ← Evaluation & future forecast
+```
 ---
 
 ## 🚀 How to Run
