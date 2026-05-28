@@ -1,11 +1,9 @@
-# 📈 Time Series Forecasting — Superstore Office Supplies Sales (2014–2017)
-
-Final project for Time Series Analysis course.  
+# Time Series Forecasting — Superstore Office Supplies Sales (2014–2017)
 Analyzes and forecasts monthly Office Supplies sales from a US Superstore dataset using ARIMA and SARIMAX models.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── data/
@@ -21,7 +19,7 @@ Analyzes and forecasts monthly Office Supplies sales from a US Superstore datase
 ```
 ---
 
-## 🚀 How to Run
+## How to Run
 
 > Run notebooks **in order from 01 → 05**. Each file loads data saved by the previous one via pickle files.
 
@@ -72,7 +70,7 @@ Put the CSV file at:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 - Office Supplies sales show a clear **upward trend** from 2014–2017
 - Strong **annual seasonality** — Q4 (Nov–Dec) consistently peaks ~2x above Q1
