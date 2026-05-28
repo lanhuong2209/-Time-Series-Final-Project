@@ -44,7 +44,7 @@ Put the CSV file at:
 
 ---
 
-## 📊 Results
+## Results
 
 | Model | MAPE | MAE ($) | RMSE ($) |
 |-------|------|---------|---------|
@@ -55,7 +55,7 @@ Put the CSV file at:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
